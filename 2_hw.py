@@ -10,3 +10,8 @@ def task_2(a=[1, 2, 3, 5, 8, 13, 21]) -> list:
 
 task_2()
 
+#3
+def task_3(x: int) ->int:
+    return x^2
+
+print(5)
